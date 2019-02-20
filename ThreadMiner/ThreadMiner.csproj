@@ -55,16 +55,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resources\Resource.cs" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
     <Compile Include="Units\Mage.cs" />
     <Compile Include="Units\Swordsman.cs" />
->>>>>>> Stashed changes
-=======
-    <Compile Include="Units\Mage.cs" />
-    <Compile Include="Units\Swordsman.cs" />
->>>>>>> Stashed changes
     <Compile Include="Units\Unit.cs" />
     <Compile Include="Units\Worker.cs" />
   </ItemGroup>
